@@ -5,6 +5,10 @@ body {
 .bg-black {
   background-color: #000;
 }
+html,
+body {
+  overflow-x: hidden;
+}
 .custom-green {
   color: #83e2a8;
 }
